@@ -2,5 +2,5 @@
 /ejercicio05.js
 /ejercicio06.js
 /conjuntos.js
-/README.md
-.gitignore
+/.gitignore
+/objetos.js
